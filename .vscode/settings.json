@@ -10,7 +10,7 @@
             "askForPassword": true,
             "driver": "MySQL",
             "name": "mysqlvscode",
-            "database": "test",
+            "database": "talently",
             "username": "root"
         }
     ]
